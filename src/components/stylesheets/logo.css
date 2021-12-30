@@ -1,0 +1,11 @@
+.logo {
+  width: 135px;
+  height: 60px;
+  margin: 7px 0 0 40px;
+  border: 0;
+  background-color: rgb(20,20,20);
+}
+
+.color {
+  color: white;
+}

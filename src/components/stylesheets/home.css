@@ -1,0 +1,59 @@
+.usersName {
+  color: white;
+  text-align: center;
+  padding-top: 12.5%;
+  font-size: 3.5em;
+}
+
+.horizontal-size {
+  width: 60%;
+  margin: auto;
+}
+
+.img-size {
+  transform: scale(0.75);
+  cursor: pointer;
+}
+
+.user-box {
+  width: 20%;
+  cursor: pointer;
+  font-size: 1.5em;
+  color: rgb(107,107,107);
+  text-align: center;
+}
+
+.user-box:hover > img {
+  border: 5px solid white;
+  border-radius: 8px;
+}
+
+
+.user-box:hover > p {
+  color: white;
+}
+
+.names {
+  margin-top: -15px;
+}
+
+.btn-section {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+
+.btn-design{
+  border: 1px solid rgb(107,107,107);
+  color: rgb(107,107,107);
+  font-size: 1.15em;
+}
+
+.btn-design:hover{
+  border: 1px solid white;
+  color: white;
+}
+
+
+
